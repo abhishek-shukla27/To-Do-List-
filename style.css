@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(237, 252, 252);
+    font-family:cursive;
+    display:flexbox;
+    justify-content: center;
+    align-items: center ;
+    height: 25px;
+        
+
+}
+
+.date{
+    margin-left: 70vh;
+    font-size: 35px;
+    font-family: cursive;
+    cursor: pointer;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.to-do{
+    margin-left: 70vh;
+    font-size: 34px;
+    font-family:cursive;
+    
+}
+.Check1{
+    cursor: pointer;
+    width: 10vh;
+    margin-left: 75vh;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.check-Txt1{
+    border-radius: 15px;
+    height: 10vh;
+    font-family: cursive;
+    width: 34vh;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    
+}
+.btn{
+    cursor: pointer;
+    border-radius: 10px;
+    top: 100px;
+    display: flex;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 20vh;
+    height: 8.5vh;
+    margin-left: 85vh;
+    font-family:cursive;    
+}
